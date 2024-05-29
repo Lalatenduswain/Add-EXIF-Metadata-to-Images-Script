@@ -22,7 +22,7 @@ This bash script allows you to add or modify EXIF metadata in image files. You c
 
 2. Navigate to the directory containing the script:
    ```bash
-   cd ScriptName
+   cd Add-EXIF-Metadata-to-Images-Script
    ```
 
 3. Make the script executable:
